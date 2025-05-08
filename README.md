@@ -2,6 +2,7 @@
 
 ## Description
 2,341 people human action data in online conference scenes, including Asian, Caucasian, black, brown, mainly young and middle-aged people, collected a variety of indoor office scenes, covering meeting rooms, coffee shops, library, bedroom, etc.Each person collected 23 videos and 4 images. The videos included 23 postures such as opening the mouth, turning the head, closing the eyes, and touching the ears. The images included four postures such as wearing a mask and wearing sunglasses.
+
 For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1290?source=Github
 
 ## Specifications
